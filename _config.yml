@@ -1,26 +1,26 @@
 # Site settings
-title: Recording Life
-SEOTitle: Squcle's Blog
-header-img: img/flowers.jpg
-email: fang_yuan_liu@yeah.net
-description: "Always."
-keyword: "Squcle_L"
-url: "http://Squcle_L.github.io"          # your host, for absolute URL
+title: Beyond Life
+SEOTitle: Lisong's Blog
+header-img: img/13-gettyimages-807395598_resized.jpg
+email: xjtu_Lisong@163.net
+description: "LOVE."
+keyword: "LISONG"
+url: "http://Lisong-xx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/fangyuanleo/Squcle_L.github.io.git" # you code repository
+github_repo: "https://github.com/lisong-xx/Lisong-xx.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Always."
-sidebar-avatar: img/amiao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "LOVE."
+sidebar-avatar: img/flowers.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-weibo_username:     DIONYSUS嗝
-zhihu_username:     Squcle Leo
-github_username:    fangyuanleo
+weibo_username:     浮洋于海
+zhihu_username:     伯爵的城堡
+github_username:    lisong-xx
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
